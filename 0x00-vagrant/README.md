@@ -1,0 +1,1 @@
+This project is to chek the uname command. Maintained by Robert Rowe.
