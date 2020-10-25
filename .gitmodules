@@ -1,0 +1,3 @@
+[submodule "startbootstrap-clean-blog-jekyll"]
+	path = startbootstrap-clean-blog-jekyll
+	url = git@github.com:StartBootstrap/startbootstrap-clean-blog-jekyll.git
